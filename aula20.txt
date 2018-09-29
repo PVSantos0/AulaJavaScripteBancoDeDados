@@ -1,0 +1,14 @@
+https://www.json.org/
+
+conseguir design pronto (free html5)
+https://freehtml5.co/
+
+framework para fazer programas
+electronjs.org
+
+pacote para subline text
+bootstrap 4 autocomplete
+
+ahcar pacote que tem se por ! + tap ele completa elementos basicos do html
+
+depois ver comandos na tools>snippet 
